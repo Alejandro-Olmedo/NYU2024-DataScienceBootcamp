@@ -25,7 +25,7 @@ def count_vowels(word):
             count += 1
     return count
 
-# Function for Question 1 
+# Function for Question 4 
 def sum_of_integers(a, b):
   return (a + b)
 
